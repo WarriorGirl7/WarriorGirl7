@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WarriorGirl7
-- 👀 I’m interested in python and odoo developpment
+- 👀 I’m interested in python and odoo development
 - 🌱 I’m currently learning php, symfony, python, django and odoo
 - 💞️ I’m looking to collaborate on some development in relation with these langages to learn more
 - 📫 How to reach me with my e-mail account
